@@ -1,2 +1,3 @@
-console.log("Hello, World!");
-
+function saludo(){
+    alert ("El pepe");
+}
